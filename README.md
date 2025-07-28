@@ -115,3 +115,6 @@ Token 是 LLMs 处理文本时使用的语言最小单位。它可以是一个�
 # 资料
 
 * [LLM Inference in Production](https://bentoml.com/llm/)
+* [nano-vllm](https://github.com/GeeeekExplorer/nano-vllm/tree/main)
+* [从零实现 vLLM (1.1）：并行词嵌入](https://mp.weixin.qq.com/s?__biz=MzU4MTgyOTk1Mw==&mid=2247484630&idx=1&sn=215458fd1c45540a379ba710d9b8fc3a&scene=21&poc_token=HC0Lh2ijWjBD1fD5j0m8-T2b7ic7nqx01zG2Uxgz)
+* [从零实现 vLLM (1.2）：如何实现张量并行](https://mp.weixin.qq.com/s?__biz=MzU4MTgyOTk1Mw==&mid=2247484710&idx=1&sn=34ec37dc82d4c1c559c7d33fff593a52&chksm=fd40d108ca37581e95ce318fd1e6434da0eb4ba35372dd6ba27f5b490745a62960d4902ab68e&cur_album_id=4092515450351730699&scene=189#wechat_redirect)
